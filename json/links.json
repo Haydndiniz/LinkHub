@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Curriculum Vitae (CV)",
+    "url": "/Haydn_Diniz_CV.pdf",
+    "emoji": "📄",
+    "active": true
+  },
+  {
+    "title": "Project Blog",
+    "url": "https://yomis.blog",
+    "emoji": "📝",
+    "active": false
+  },
+  {
+    "title": "GitHub",
+    "url": "https://github.com/Haydndiniz",
+    "emoji": "FaGithub",
+    "active": true
+  },
+  {
+    "title": "Photography Site",
+    "url": "https://yomitosh.com",
+    "emoji": "📸",
+    "active": false
+  },
+  {
+    "title": "Buy me a Coffee",
+    "url": "pay.haydndiniz.dev",
+    "emoji": "💸",
+    "active": true
+  }
+]

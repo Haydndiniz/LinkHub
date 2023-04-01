@@ -1,0 +1,42 @@
+{
+  "name": "link-ent",
+  "version": "2.2.0",
+  "description": "A free Linktree alternative built with React and Tailwind.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "export": "npm run build && next export",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/montoulieu/link-ent.git"
+  },
+  "author": "Pieter Montoulieu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/montoulieu/link-ent/issues"
+  },
+  "homepage": "https://github.com/montoulieu/link-ent#readme",
+  "dependencies": {
+    "@vercel/analytics": "^0.1.11",
+    "next": "^13.0.0",
+    "openai": "^3.2.1",
+    "prop-types": "^15.8.1",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-ga": "^3.2.1",
+    "react-icons": "^4.2.0",
+    "react-markdown": "^8.0.6",
+    "remark-gfm": "^3.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "18.15.10",
+    "@types/react": "^18.0.28",
+    "autoprefixer": "10.4.14",
+    "tailwindcss": "^3.2.7",
+    "typescript": "5.0.2"
+  }
+}
