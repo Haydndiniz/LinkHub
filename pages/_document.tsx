@@ -20,6 +20,7 @@ export default function Document() {
           integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN"
           crossOrigin="anonymous"
         ></link>
+        
       </Head>
       <body>
         <Main />
