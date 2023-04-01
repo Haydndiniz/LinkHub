@@ -1,8 +1,14 @@
 [
   {
-    "title": "Adaptiv Intelligence with character recognition Reinforcement Learning",
-    "url": "https://github.com/abayomi185/rl-msc-project",
+    "title": "Adaptive Intelligence with Character Recognition Reinforcement Learning",
+    "url": "https://github.com/haydndiniz",
     "emoji": "🦾",
+    "active": false
+  },
+  {
+    "title": "This section is under Development",
+    "url": "",
+    "emoji": "⚒️",
     "active": false
   }
 ]

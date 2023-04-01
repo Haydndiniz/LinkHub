@@ -32,9 +32,9 @@ function IndexPage() {
       {/* List of Links generated from links.json */}
       <LinkList />
 
-      {/* <SectionBreak sectionName={"- Project Highlights -"} /> */}
+      <SectionBreak sectionName={" Projects"} />
 
-      {/* <ProjectLinkList /> */}
+      <ProjectLinkList />
 
       {/* Social Links and Footer Disclaimer/Credits */}
       {/* <Footer /> */}
