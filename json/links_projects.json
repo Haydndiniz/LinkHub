@@ -3,12 +3,18 @@
     "title": "Adaptive Intelligence with Character Recognition Reinforcement Learning",
     "url": "https://github.com/haydndiniz",
     "emoji": "🦾",
-    "active": false
+    "active": true
+  },
+  {
+    "title": "IoT Smart Home",
+    "url": "https://github.com/haydndiniz",
+    "emoji": "🦾",
+    "active": true
   },
   {
     "title": "This section is under Development",
     "url": "",
     "emoji": "⚒️",
-    "active": false
+    "active": true
   }
 ]
