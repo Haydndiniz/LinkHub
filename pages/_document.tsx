@@ -20,6 +20,16 @@ export default function Document() {
           integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN"
           crossOrigin="anonymous"
         ></link>
+        <script async src='https://www.googletagmanager.com/gtag/js?id=G-G6T4SKP93W'></script>
+        <script
+            dangerouslySetInnerHTML={{
+              __html: `
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'TRACKING-ID');`
+            }}
+          ></script>
         
       </Head>
       <body>
