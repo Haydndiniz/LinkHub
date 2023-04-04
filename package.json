@@ -28,6 +28,7 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-ga": "^3.2.1",
+    "react-hotjar": "^5.5.0",
     "react-icons": "^4.2.0",
     "react-markdown": "^8.0.6",
     "remark-gfm": "^3.0.1"
