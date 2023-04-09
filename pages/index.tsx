@@ -2,7 +2,7 @@ import Header from "@components/Header";
 import LinkList from "@components/LinkList";
 import ProjectLinkList from "@components/ProjectLinkList";
 import SectionBreak from "@components/SectionBreak";
-// import Footer from "../components/Footer";
+import Footer from "../components/Footer";
 import { initGA, logPageView } from "@utils/analytics";
 import { useEffect, useState } from "react";
 import SocialBar from "@components/SocialBar";
@@ -37,7 +37,7 @@ function IndexPage() {
       <ProjectLinkList />
 
       {/* Social Links and Footer Disclaimer/Credits */}
-      {/* <Footer /> */}
+      <Footer />
     </div>
   );
 }

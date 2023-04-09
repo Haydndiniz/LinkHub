@@ -9,7 +9,7 @@
     "title": "Project Blog",
     "url": "https://blog.haydndiniz.dev",
     "emoji": "📝",
-    "active": false
+    "active": true
   },
   {
     "title": "GitHub",
@@ -21,7 +21,7 @@
     "title": "Photography Site",
     "url": "https://photos.haydndiniz.dev",
     "emoji": "📸",
-    "active": false
+    "active": true
   },
   {
     "title": "Buy me a Coffee",

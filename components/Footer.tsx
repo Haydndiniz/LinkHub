@@ -1,5 +1,7 @@
 import SocialLinks from "@components/SocialLinks";
 import FooterDisclaimer from "@components/FooterDisclaimer";
+import Link from "next/link";
+
 
 const Footer = () => {
   return (
@@ -9,6 +11,15 @@ const Footer = () => {
           <SocialLinks />
           {/* <FooterDisclaimer /> */}
         </div>
+      </div>
+      <div className="container text-left mx-auto">
+        <Link
+          href="https://uptime.haydndiniz.dev"
+          target="_blank"
+          className="text-custom-3"
+          >
+          Service status
+        </Link>
       </div>
     </footer>
   );
