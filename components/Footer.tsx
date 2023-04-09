@@ -10,16 +10,17 @@ const Footer = () => {
         <div className="md:w-4/6 mx-auto">
           <SocialLinks />
           {/* <FooterDisclaimer /> */}
-        </div>
-      </div>
-      <div className="container text-left mx-auto">
-        <Link
+          <Link
           href="https://uptime.haydndiniz.dev"
           target="_blank"
-          className="text-custom-3"
+          className = "transition w-40 duration-200 bg-gray-700 border-gray-700 border-2 hover:bg-custom-1 py-4 px-4 rounded-lg text-gray-200 hover:text-gray-800"
           >
-          Service status
+          Service Status 
         </Link>
+        </div>
+      </div>
+      <div className="container text-center mx-auto">
+        
       </div>
     </footer>
   );
