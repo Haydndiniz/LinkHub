@@ -34,13 +34,13 @@ function IndexPage() {
       {/* List of Links generated from links.json */}
       <LinkList />
 
-      <SectionBreak sectionName={" Projects"} />
-      <div className="text-center">Project Blog and Photography site is down due to my server moving geographic locations</div>
+      <SectionBreak sectionName={" ~ Projects ~"} />
+      <div className="text-center text-gray-400 ">Project Blog and Photography site is down due to my server moving geographic locations</div>
       <div className="text-center">
       <Link
           href="https://uptime.haydndiniz.dev"
           target="_blank"
-          className="text-center  text-gray-200 hover:text-orange-300"
+          className="text-center text-gray-500  hover:text-orange-300"
           >
           See Service Status for more information
         </Link>

@@ -12,6 +12,13 @@
     "active": true
   },
   {
+    "title": "Deploying a LAMP Stack on GCP",
+    "url": "https://github.com/haydndiniz",
+    "emoji": "🖥️",
+    "active": true
+  },
+
+  {
     "title": "This section is under Development",
     "url": "",
     "emoji": "⚒️",
