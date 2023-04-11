@@ -7,6 +7,8 @@ import { initGA, logPageView } from "@utils/analytics";
 import { useEffect, useState } from "react";
 import SocialBar from "@components/SocialBar";
 import ChatGPT from "@components/ChatGPT";
+import Link from "next/link";
+
 
 function IndexPage() {
   const [gaInitialised, setGAInitialised] = useState(false);
@@ -33,6 +35,17 @@ function IndexPage() {
       <LinkList />
 
       <SectionBreak sectionName={" Projects"} />
+      <div className="text-center">Project Blog and Photography site is down due to my server moving geographic locations</div>
+      <div className="text-center">
+      <Link
+          href="https://uptime.haydndiniz.dev"
+          target="_blank"
+          className="text-center  text-gray-200 hover:text-orange-300"
+          >
+          See Service Status for more information
+        </Link>
+         
+       </div>
 
       <ProjectLinkList />
 
