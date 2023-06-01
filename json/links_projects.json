@@ -1,15 +1,21 @@
 [
   {
+    "title": "This section is under Development",
+    "url": "",
+    "emoji": "⚒️",
+    "active": true
+  },
+  {
     "title": "Adaptive Intelligence with Character Recognition Reinforcement Learning",
     "url": "https://blog.haydndiniz.dev/Adaptive Intelligence",
     "emoji": "🤖",
-    "active": true
+    "active": false
   },
   {
     "title": "IoT Smart Home",
     "url": "https://blog.haydndiniz.dev/iot-smart-home",
     "emoji": "🏠",
-    "active": true
+    "active": false
   },
   {
     "title": "Deploying a Always Free VM for Docker on GCP",
@@ -17,11 +23,19 @@
     "emoji": "🖥️",
     "active": true
   },
-
   {
-    "title": "This section is under Development",
-    "url": "",
-    "emoji": "⚒️",
+
+    "title": "Deploying a Ghost Docker Container",
+    "url": "https://blog.haydndiniz.dev",
+    "emoji": "👻",
+    "active": false
+  },
+  {
+
+    "title": "Adding Analytics and UX tracking to you website",
+    "url": "https://blog.haydndiniz.dev",
+    "emoji": "📊",
     "active": false
   }
+    
 ]
