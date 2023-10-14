@@ -6,6 +6,12 @@
     "active": true
   },
   {
+    "title": "New Projects coming soon",
+    "url": "",
+    "emoji": "⚒️",
+    "active": true
+  },
+  {
     "title": "Adaptive Intelligence with Character Recognition Reinforcement Learning",
     "url": "https://blog.haydndiniz.dev/Adaptive Intelligence",
     "emoji": "🤖",
@@ -21,7 +27,7 @@
     "title": "Deploying a Always Free VM for Docker on GCP",
     "url": "https://blog.haydndiniz.dev",
     "emoji": "🖥️",
-    "active": true
+    "active": false
   },
   {
 
